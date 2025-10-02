@@ -16,30 +16,6 @@ Passionate about building immersive game experiences, writing clean & maintainab
 
 ---
 
-## 🛠 Tech Stack
-- 🎮 Unity, C#  
-- 🧩 Gameplay Systems & Mechanics  
-- ⚡ Game Physics & Optimization  
-- 🌐 Next.js, React (for portfolio & tools)  
-- 🎨 Tailwind CSS, UI/UX for games and apps  
-
----
-
-## 🌟 Highlighted Project
-### 🎮 Helix Jump Clone (Unity, 2025)
-A simple **Helix Jump style game** where the player controls a bouncing ball descending through a helix tower while avoiding obstacles.  
-
-**Features:**
-- AI-Driven Storytelling  
-- Neural Interface Controls  
-- Procedural Narratives  
-- Adaptive Difficulty  
-
-**Tech Used:** Unity, C#, Physics  
-**Outcome:** Featured at game development conferences for innovation in human-computer interaction.  
-
----
-
 ## 📫 Connect with Me
 - 🎮 [Itch.io](https://gunarajpoojary.itch.io)  
 - 💬 [Discord](https://discord.com/users/551287302777864207)  
